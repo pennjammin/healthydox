@@ -1,0 +1,1 @@
+This is a simple Demo for the HEALTHYDOX dashboard along with form functionality. It is built out with ReactJS utilizing MaterialUI (special thanks to Creative Tim for the open source dash ui styling!) as well as the Formik libarary to handle any complex form logic while not sacrificing on performance.
