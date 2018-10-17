@@ -173,7 +173,7 @@ class Notifications extends React.Component {
                     place="tl"
                     color="info"
                     icon={AddAlert}
-                    message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                    message="Welcome to the HealthyDox test framework!"
                     open={this.state.tl}
                     closeNotification={() => this.setState({ tl: false })}
                     close
@@ -191,7 +191,7 @@ class Notifications extends React.Component {
                     place="tc"
                     color="info"
                     icon={AddAlert}
-                    message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                    message="Welcome to the HealthyDox test framework!"
                     open={this.state.tc}
                     closeNotification={() => this.setState({ tc: false })}
                     close
@@ -209,7 +209,7 @@ class Notifications extends React.Component {
                     place="tr"
                     color="info"
                     icon={AddAlert}
-                    message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                    message="Welcome to the HealthyDox test framework!"
                     open={this.state.tr}
                     closeNotification={() => this.setState({ tr: false })}
                     close
@@ -233,7 +233,7 @@ class Notifications extends React.Component {
                     place="bl"
                     color="info"
                     icon={AddAlert}
-                    message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                    message="Welcome to the HealthyDox test framework!"
                     open={this.state.bl}
                     closeNotification={() => this.setState({ bl: false })}
                     close
@@ -251,7 +251,7 @@ class Notifications extends React.Component {
                     place="bc"
                     color="info"
                     icon={AddAlert}
-                    message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                    message="Welcome to the HealthyDox test framework!"
                     open={this.state.bc}
                     closeNotification={() => this.setState({ bc: false })}
                     close
@@ -269,7 +269,7 @@ class Notifications extends React.Component {
                     place="br"
                     color="info"
                     icon={AddAlert}
-                    message="Welcome to MATERIAL DASHBOARD React - a beautiful freebie for every web developer."
+                    message="Welcome to the HealthyDox test framework!"
                     open={this.state.br}
                     closeNotification={() => this.setState({ br: false })}
                     close
