@@ -1,7 +1,7 @@
 {
-  "name": "material-dashboard-react",
+  "name": "healthydox",
   "version": "1.5.0",
-  "description": "Material Dashboard React. Coded by Creative Tim",
+  "description": "HealthyDox Demo Dashboard",
   "private": false,
   "main": "dist/index.js",
   "dependencies": {
